@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.1.1" class="java.beans.XMLDecoder">
+ <object class="org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceInfo" id="MarketplaceInfo0">
+  <void property="iuToNodeKey">
+   <void method="put">
+    <string>com.ibmcloud.eclipse.cli.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5513333</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>LibusbJavaFeature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5542031</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>io.sidespin.jre.discovery.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5514555</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>com.salesforce.bazel.eclipse.feature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5403450</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>com.swdc.codetime</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5063383</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>DiscoEclipseFeature</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>https://marketplace.eclipse.org#5404647</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="nodeKeyToIU">
+   <void method="put">
+    <string>https://marketplace.eclipse.org#5063383</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>com.swdc.codetime</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#5514555</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>io.sidespin.jre.discovery.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#5513333</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>com.ibmcloud.eclipse.cli.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#5404647</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>DiscoEclipseFeature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#5403450</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>com.salesforce.bazel.eclipse.feature</string>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>https://marketplace.eclipse.org#5542031</string>
+    <object class="java.util.ArrayList">
+     <void method="add">
+      <string>LibusbJavaFeature</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
